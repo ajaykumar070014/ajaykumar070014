@@ -1,4 +1,4 @@
-<img src="https://github.com/ajaykumar070014/ajaykumar070014/blob/main/Banner.jpg" alt="banner" width="100%" />
+<img src="https://github.com/ajaykumar070014/ajaykumar070014/blob/main/Ban.jpg" alt="banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">Full Stack Developer & DevOps Engineer · Building scalable microservices, secure systems & AI-driven automation</h3>
