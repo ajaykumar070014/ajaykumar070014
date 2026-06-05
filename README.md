@@ -101,7 +101,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykumar070014&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=ajaykumar070014&theme=tokyonight" alt="streak" />
 </p>
 
 <p align="center">
